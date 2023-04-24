@@ -1,0 +1,14 @@
+Graded Project 3
+Group: G4 - B1
+Contributed: Rohan Chakraborty & Lalita Choudhary
+Date 24-04-2023
+
+Problem Statement:
+To create a Ticket Tracker Application to perform the CRUD opereation.
+
+Main features:
+1. Create Ticket
+2. View/Read Ticket
+3. Update Ticket
+4. Delete Ticket
+5. Search ticket
